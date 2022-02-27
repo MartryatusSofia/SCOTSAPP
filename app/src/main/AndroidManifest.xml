@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.firebase_martryatussofia_20">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoscots"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logoscots"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Firebase_martryatussofia_20">
+        <activity
+            android:name=".Activity.Showpjok"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Showkk2"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Showmatematika"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Showkk4"
+            android:exported="false" />
+        <activity
+            android:name=".Insert.InsertPjok"
+            android:exported="false" />
+        <activity
+            android:name=".Insert.Insertmatematika"
+            android:exported="false" />
+        <activity
+            android:name=".Insert.Insertkk2"
+            android:exported="false" />
+        <activity
+            android:name=".Insert.Insertkk4"
+            android:exported="false" />
+        <activity
+            android:name=".DashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".Splashscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

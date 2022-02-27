@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5358147920",
+    "project_id": "databasekk4-60915",
+    "storage_bucket": "databasekk4-60915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5358147920:android:7a8a237050fc397f277455",
+        "android_client_info": {
+          "package_name": "com.example.firebase_martryatussofia_20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5358147920-h10t56tk7b9pvfjjiiaecu1v88i5v7nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhgA9XB7VsAD_nRfhqReTanXfZvoJU7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5358147920-h10t56tk7b9pvfjjiiaecu1v88i5v7nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
